@@ -1,2 +1,2 @@
 # web_personal
-Esta es mi web personal en html
+https://jdma-95.github.io/web_personal/
